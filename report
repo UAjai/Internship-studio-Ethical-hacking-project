@@ -1,0 +1,10 @@
+           accunetrix web scanning
+Attack details:
+     SQL query:SELECT "from protect where id=1ACUSTART"
+     "mysql_query" was called
+     1.PROCESSID9[string] "1ACUSTART'"ACUEND")
+     
+vulnerability Description:
+    SQL injection refers to an injection attack where an attack can execute  malicious sql statements that control applications database server
+    
+    

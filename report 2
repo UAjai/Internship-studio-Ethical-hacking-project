@@ -1,0 +1,22 @@
+title:cross site scripting
+
+Domain:testasp vulnweb.com
+
+steps to reproduce:
+         step 1:visite http://testasp.vulnweb.com/
+         step 2:click on it and you will find a search option
+         step 3:you can intercept the request in burpsuit
+         step 4:now you can find different payloads for xss
+         step 5:try to find succesful payload for xss
+impact : 
+         cross site scripting is very dangerous to your website.that can be easily detect your data and
+         it will be harmful for your website
+mitigation : 
+        If you want to retrive your website then protect your security well and clear your cross site scripting
+        
+poc :  following the screenshot you can see thet the xss vulnerable.the repory which is attached below
+       1.png
+       2.mp4
+        
+conclusion :
+         Be aware of your website.Any time attacker can attack you webite.update and modify your website
